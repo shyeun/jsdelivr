@@ -1,1 +1,1 @@
-{"poster":"a' onerror=alert()"}
+{"price":123123123}
